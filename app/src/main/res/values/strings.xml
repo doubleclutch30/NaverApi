@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">ArchitectrueStudy</string>
+    <string name="navigation_blog">blog</string>
+    <string name="navigation_kin">kin</string>
+    <string name="navigation_movie">movie</string>
+    <string name="navigation_image">image</string>
 </resources>
