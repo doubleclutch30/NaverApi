@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/blog"
+        android:icon="@drawable/baseline_bookmark_black_24dp"
+        android:title="blog"/>
+
+    <item
+        android:id="@+id/kin"
+        android:icon="@drawable/baseline_help_black_24dp"
+        android:title="blog"/>
+
+    <item
+        android:id="@+id/movie"
+        android:icon="@drawable/baseline_movie_black_24dp"
+        android:title="blog"/>
+
+    <item
+        android:id="@+id/image"
+    android:icon="@drawable/baseline_collections_black_24dp"
+        android:title="blog"/>
+</menu>
